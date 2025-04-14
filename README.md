@@ -1,6 +1,6 @@
 # Career Explorer Bot
 
-Career Explorer Bot is a smart Streamlit application that helps you discover personalized career paths based on your education, skills, interests, and goals. Powered by [Agno](https://github.com/agno-agi/agno), OpenAI's GPT-4o, and SerpAPI, the bot searches the web for relevant opportunities and generates a tailored, Markdown-formatted career guidance report just for you.
+Career Explorer Bot is a smart Streamlit application that helps you discover personalized career paths based on your education, skills, interests, and goals. Powered by [Agno](https://github.com/agno-agi/agno), OpenAI's GPT-4o, and SerpAPI, the bot searches the web for relevant opportunities and generates a tailored, well-formatted career guidance report just for you.
 
 ## Folder Structure
 
